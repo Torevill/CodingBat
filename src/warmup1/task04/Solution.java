@@ -1,4 +1,4 @@
-package Warmup1.task04;
+package warmup1.task04;
 
 public class Solution {
     public boolean posNeg(int a, int b, boolean negative) {

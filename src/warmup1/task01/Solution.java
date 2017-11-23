@@ -1,4 +1,4 @@
-package Warmup1.task01;
+package warmup1.task01;
 
 public class Solution {
     public boolean sleepIn(boolean weekday, boolean vacation) {

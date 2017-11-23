@@ -1,4 +1,4 @@
-package Warmup1.task03;
+package warmup1.task03;
 
 public class Solution {
     public boolean nearHundred(int n) {

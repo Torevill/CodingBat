@@ -1,4 +1,4 @@
-package Warmup1.task02;
+package warmup1.task02;
 
 public class Solution {
     public int diff21(int n) {
