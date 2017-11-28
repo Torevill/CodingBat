@@ -5,12 +5,11 @@ public class Solution {
     public String stringSplosion(String str) {
         String answ = "";
         for (int i = 0; i <= str.length(); i++) {
-            answ += str.substring(0,i);
+            answ += str.substring(0, i);
 
         }
         return answ;
     }
-
 
 
 }
